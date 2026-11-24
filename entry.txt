@@ -1,0 +1,1 @@
+My agent burned a billion tokens explaining why it couldn't do the task, then did it in one line.
